@@ -1,3 +1,7 @@
+A visualized represantation of current UK developer jobs
+
+![Screenshot](https://i.ibb.co/NrWdSmX/developer-jobs.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
